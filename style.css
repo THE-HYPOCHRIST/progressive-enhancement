@@ -1,0 +1,61 @@
+.bien, .mal
+{
+  font-weight: bold;
+  font-style: italic;
+}
+table, td, th
+{
+  border: 1px solid black;
+}
+p
+{
+  font-family: times;
+  line-height: 30px;
+  color: #555;
+}
+a
+{
+  text-decoration: underline;
+  color: black;
+}
+
+a:visited
+{
+  color: blue;
+}
+
+a:hover
+{
+  color: red;
+}
+
+body
+{
+  max-width: 90%;
+  margin-left: 800px;
+  background-image: url('background-1.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: cover;
+}
+q, blockquote
+{
+  margin-left: 50px;
+  font-size: 160%;
+  font-style: italic;
+  color: #999;
+  border-left: 3px solid #aa3311;
+  padding-left: 30px;
+}
+.villageois
+{
+  border-left: 3px solid blue
+}
+.fermier
+{
+  border-left: 3px solid purple;
+}
+header>h2
+{
+  background-color: yellow;
+}
