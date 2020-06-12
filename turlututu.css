@@ -299,7 +299,7 @@ footer > *{
   position: absolute;
   left: 1%;
   bottom: 0%;
-  border-right: 1px solid white;
+  border-right: 1px dotted white;
   padding-right: 10px;
 }
 #A{
@@ -308,7 +308,7 @@ footer > *{
   position: absolute;
   left: 5%;
   bottom: 0%;
-  border-right: 1px solid white;
+  border-right: 1px dotted white;
   padding-right: 10px;
 }
 #C↓{
@@ -317,7 +317,7 @@ footer > *{
   position: absolute;
   left: 9%;
   bottom: 0%;
-  border-right: 1px solid white;
+  border-right: 1px dotted white;
   padding-right: 10px;
 }
 #TC{
@@ -326,7 +326,7 @@ footer > *{
   position: absolute;
   left: 14%;
   bottom: 0%;
-  border-right: 1px solid white;
+  border-right: 1px dotted white;
   padding-right: 10px;
 }
 #PP{
@@ -335,7 +335,7 @@ footer > *{
   position: absolute;
   left: 23%;
   bottom: 0%;
-  border-right: 1px solid white;
+  border-right: 1px dotted white;
   padding-right: 10px;
 }
 #©{
